@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
+nav {
+  text-align: center;
+}
+
+figure{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption  {
+  text-align: center;
+}
+
+p {
+  width: 900px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+section {
+  text-align: center;
+}
+div {
+  text-align: center;
+  float:left;
+  background-color: red;
+  width: 25%;
+}
